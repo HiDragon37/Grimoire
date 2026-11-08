@@ -37,7 +37,7 @@ TyranoScript 遊戲可在「翻譯」分頁調整視窗大小，每款遊戲各�
 
 【資料存放位置】
 設定、字典與備份在 %LOCALAPPDATA%\Grimoire。
-Grimoire 不會修改遊戲原始檔案；存檔備份也存放在上述位置。
+Grimoire 會新增、不會修改遊戲原始檔案；存檔備份也存放在上述位置。
 
 【注意事項】
 修改遊戲內容前，請確認遵守該遊戲的使用條款。修改可能造成存檔異常，建議先建立時光點或自行存檔。
@@ -54,7 +54,7 @@ CG 畫廊只供在工具內瀏覽，不提供匯出功能。請勿散布遊戲�
 Discord 群組：https://discord.gg/euDanWRJk
 
 本工具按現狀提供，不提供任何擔保。
-Grimoire 為獨立開發的工具，不包含其他修改工具的程式檔案，也與 MTool 及其作者無關。
+Grimoire 為獨立開發的工具，不包含其他修改工具的程式檔案。
 支援匯入 .trs 與 JSON 字典檔，僅為格式相容。
 
 
@@ -100,7 +100,7 @@ Every update is digitally signed by the author; Grimoire only installs official 
 Data Storage & Save Backups
 All configuration files, dictionaries, and backups are stored at:
 %LOCALAPPDATA%\Grimoire
-Grimoire does not modify original game files; save data backups are also preserved in the folder specified above.
+Grimoire does not modify original game files but it does add files; save data backups are also preserved in the folder specified above.
 
 Important Notes
 Ensure you comply with the respective game's terms of service before modifying any content. Modifications can cause save file instability; creating a restore point or saving beforehand is strongly recommended.
@@ -118,5 +118,5 @@ Discord Community: https://discord.gg/euDanWRJk
 
 Disclaimer
 This software is provided "as is", without warranty of any kind.
-Grimoire is an independently developed tool. It does not include binaries from other modification utilities and is not affiliated with MTool or its creators.
+Grimoire is an independently developed tool. It does not include binaries from other modification utilities.
 Support for importing .trs and JSON dictionary formats is implemented solely for format compatibility purposes.
