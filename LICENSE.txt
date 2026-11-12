@@ -1,0 +1,52 @@
+魔導書 Grimoire
+Copyright (c) 2026 美雪。保留所有權利。
+
+您可以免費下載，並將本軟體用於個人用途。
+未經作者書面同意，不得：
+・販售、出租本軟體，或將其用於商業用途
+・重新散布本軟體，或散布修改過的版本
+・反組譯、反編譯或以其他方式還原本軟體的程式碼
+・複製、改寫本軟體的程式碼（全部或部分），或將其用於其他軟體
+・將本軟體的程式碼或檔案提供給人工智慧（AI）工具，用於分析、重寫、重製或訓練
+・移除或規避本軟體的保護機制（包括更新簽章驗證），或移除本軟體中的著作權與作者標示
+・以「魔導書」或「Grimoire」名義發布非作者製作的版本
+官方下載處僅有：
+  https://hidragon37.itch.io/grimoire
+  https://github.com/HiDragon37/Grimoire/releases
+
+使用限制：
+・本軟體僅供搭配合法取得的單機遊戲使用，請勿用於線上或多人遊戲
+・請勿公開散布遊戲素材，或含有遊戲文字的翻譯字典
+・使用本軟體修改或翻譯遊戲時，請遵守該遊戲的使用條款，相關責任由使用者自行承擔
+
+本軟體按「現狀」提供，不附帶任何明示或默示的擔保。作者不對使用本軟體造成的任何損害負責，包括遊戲或存檔資料遺失。
+
+本軟體隨附的第三方元件依其各自的授權條款提供，請見 THIRD_PARTY_NOTICES.txt。
+違反以上條款時，您使用本軟體的權利即自動終止，作者並得依法向平台申請下架及追究責任。
+
+------------------------------------------------------------
+English (for reference; the Chinese text above prevails)
+
+Grimoire
+Copyright (c) 2026 美雪 (Miyuki). All rights reserved.
+
+You may download this software free of charge and use it for personal purposes.
+Without the author's prior written permission, you may NOT:
+- sell or rent this software, or use it for commercial purposes;
+- redistribute this software, or distribute modified versions of it;
+- disassemble, decompile, or otherwise reverse engineer this software;
+- copy or adapt any part of its code, or use it in other software;
+- provide its code or files to artificial intelligence (AI) tools for analysis, rewriting, reproduction, or training;
+- remove or circumvent its protection mechanisms (including update signature verification), or remove its copyright and author notices;
+- publish any version not made by the author under the name "Grimoire" or "魔導書".
+Official downloads are only:
+  https://hidragon37.itch.io/grimoire
+  https://github.com/HiDragon37/Grimoire/releases
+
+Use this software only with legally obtained single-player games, never with online or multiplayer games. Do not publicly distribute game assets or dictionaries containing game text. You are responsible for following each game's terms of use.
+
+This software is provided "AS IS", without warranty of any kind. The author is not liable for any damage arising from its use, including loss of game or save data.
+
+Any breach of these terms automatically terminates your right to use this software, and the author may request takedowns and pursue remedies under applicable law.
+
+Third-party components are provided under their own licenses; see THIRD_PARTY_NOTICES.txt.
