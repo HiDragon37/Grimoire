@@ -41,6 +41,10 @@ Grimoire 不會永久修改遊戲原始檔案（Ren'Py、SRPG Studio 遊戲執�
 修改遊戲內容前，請確認遵守該遊戲的使用條款。修改可能造成存檔異常，建議先備份存檔。
 請勿散布遊戲素材或含遊戲文字的字典，除非你有權這麼做。
 
+【授權】
+本軟體可免費用於個人用途，但著作權歸作者所有。未經作者書面同意，禁止販售、重新散布、散布修改版本，以及反組譯、反編譯、複製或改寫程式碼（包括交給 AI 工具分析或重寫）。完整條款請見 LICENSE.txt。
+Free for personal use. Redistribution, modification, reverse engineering, and copying of the code (including via AI tools) are prohibited without permission. See LICENSE.txt.
+
 製作者：美雪
 官方下載處（只有這兩個）：
   https://hidragon37.itch.io/grimoire
